@@ -1,9 +1,14 @@
 # Pixivcrawl
 Your can use this tool to get pixiv picture!
+
 -h, --help            show this help message and exit
+
 -u UID, --uid UID     输入p站作者id就能把他们所有的图都拿下来啦
+
 -s SEARCH, --search SEARCH 输入你要搜索的东西并且使用-c可以筛选出你要的收藏数的图。
+
 -c COLLECTION, --collection COLLECTION 一定要配合-s使用哦
+
 -i, --init           最先要使用-i在你的D盘创建初始文件
 
 
