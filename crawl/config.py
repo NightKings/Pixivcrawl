@@ -3,8 +3,8 @@
 LOGIN_URL = 'https://accounts.pixiv.net/login?lang=zh&source=pc&view_type=page&ref=wwwtop_accounts_index'
 pid_url = 'https://www.pixiv.net/member_illust.php?mode=medium&illust_id='
 manga_url = 'https://www.pixiv.net/member_illust.php?mode=manga&illust_id='
-search_save_dir = 'D:/Picture/pixiv/search/'
-author_save_dir = 'D:/Picture/pixiv/author/'
+search_save_dir = 'D:/Picture/pixiv/'
+author_save_dir = 'D:/Picture/pixiv/'
 search_url = 'https://www.pixiv.net/search.php?word=%s&order=date_d&p='
 
 
