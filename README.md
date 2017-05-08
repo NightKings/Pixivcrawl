@@ -1,6 +1,8 @@
 # Pixivcrawl
 Your can use this tool to get pixiv picture!
 
+版本python3.6
+
 -h, --help            show this help message and exit
 
 -u UID, --uid UID     输入p站作者id就能把他们所有的图都拿下来啦
