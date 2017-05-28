@@ -1,6 +1,13 @@
 # Pixivcrawl
 Your can use this tool to get pixiv picture!
 
+两个库：
+
+pip instasll requests
+
+pip install lxml
+
+
 版本python3.6
 
 -h, --help            show this help message and exit
