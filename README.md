@@ -1,4 +1,9 @@
 # Pixivcrawl
+p站前端改版了，现在没用了TAT
+
+
+
+
 Your can use this tool to get pixiv picture!
 
 两个库：
