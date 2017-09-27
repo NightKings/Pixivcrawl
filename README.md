@@ -3,7 +3,7 @@ Your can use this tool to get pixiv picture!
 
 两个库：
 
-pip instasll requests
+pip install requests
 
 pip install lxml
 
